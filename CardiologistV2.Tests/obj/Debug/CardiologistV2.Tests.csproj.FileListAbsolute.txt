@@ -1,0 +1,126 @@
+c:\users\welcome\documents\visual studio 2012\Projects\CardiologistV2\CardiologistV2.Tests\bin\Debug\CardiologistV2.Tests.dll.config
+c:\users\welcome\documents\visual studio 2012\Projects\CardiologistV2\CardiologistV2.Tests\bin\Debug\CardiologistV2.Tests.dll
+c:\users\welcome\documents\visual studio 2012\Projects\CardiologistV2\CardiologistV2.Tests\bin\Debug\CardiologistV2.Tests.pdb
+c:\users\welcome\documents\visual studio 2012\Projects\CardiologistV2\CardiologistV2.Tests\bin\Debug\CardiologistV2.dll
+c:\users\welcome\documents\visual studio 2012\Projects\CardiologistV2\CardiologistV2.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+c:\users\welcome\documents\visual studio 2012\Projects\CardiologistV2\CardiologistV2.Tests\bin\Debug\Newtonsoft.Json.dll
+c:\users\welcome\documents\visual studio 2012\Projects\CardiologistV2\CardiologistV2.Tests\bin\Debug\System.Web.Helpers.dll
+c:\users\welcome\documents\visual studio 2012\Projects\CardiologistV2\CardiologistV2.Tests\bin\Debug\System.Web.Mvc.dll
+c:\users\welcome\documents\visual studio 2012\Projects\CardiologistV2\CardiologistV2.Tests\bin\Debug\System.Web.Razor.dll
+c:\users\welcome\documents\visual studio 2012\Projects\CardiologistV2\CardiologistV2.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+c:\users\welcome\documents\visual studio 2012\Projects\CardiologistV2\CardiologistV2.Tests\bin\Debug\System.Web.WebPages.dll
+c:\users\welcome\documents\visual studio 2012\Projects\CardiologistV2\CardiologistV2.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+c:\users\welcome\documents\visual studio 2012\Projects\CardiologistV2\CardiologistV2.Tests\bin\Debug\EntityFramework.dll
+c:\users\welcome\documents\visual studio 2012\Projects\CardiologistV2\CardiologistV2.Tests\bin\Debug\System.Web.Optimization.dll
+c:\users\welcome\documents\visual studio 2012\Projects\CardiologistV2\CardiologistV2.Tests\bin\Debug\Microsoft.Web.WebPages.OAuth.dll
+c:\users\welcome\documents\visual studio 2012\Projects\CardiologistV2\CardiologistV2.Tests\bin\Debug\DotNetOpenAuth.AspNet.dll
+c:\users\welcome\documents\visual studio 2012\Projects\CardiologistV2\CardiologistV2.Tests\bin\Debug\WebGrease.dll
+c:\users\welcome\documents\visual studio 2012\Projects\CardiologistV2\CardiologistV2.Tests\bin\Debug\DotNetOpenAuth.Core.dll
+c:\users\welcome\documents\visual studio 2012\Projects\CardiologistV2\CardiologistV2.Tests\bin\Debug\DotNetOpenAuth.OAuth.Consumer.dll
+c:\users\welcome\documents\visual studio 2012\Projects\CardiologistV2\CardiologistV2.Tests\bin\Debug\DotNetOpenAuth.OAuth.dll
+c:\users\welcome\documents\visual studio 2012\Projects\CardiologistV2\CardiologistV2.Tests\bin\Debug\DotNetOpenAuth.OpenId.RelyingParty.dll
+c:\users\welcome\documents\visual studio 2012\Projects\CardiologistV2\CardiologistV2.Tests\bin\Debug\DotNetOpenAuth.OpenId.dll
+c:\users\welcome\documents\visual studio 2012\Projects\CardiologistV2\CardiologistV2.Tests\bin\Debug\Antlr3.Runtime.dll
+c:\users\welcome\documents\visual studio 2012\Projects\CardiologistV2\CardiologistV2.Tests\bin\Debug\CardiologistV2.pdb
+c:\users\welcome\documents\visual studio 2012\Projects\CardiologistV2\CardiologistV2.Tests\bin\Debug\Newtonsoft.Json.xml
+c:\users\welcome\documents\visual studio 2012\Projects\CardiologistV2\CardiologistV2.Tests\bin\Debug\System.Web.Helpers.xml
+c:\users\welcome\documents\visual studio 2012\Projects\CardiologistV2\CardiologistV2.Tests\bin\Debug\System.Web.Mvc.xml
+c:\users\welcome\documents\visual studio 2012\Projects\CardiologistV2\CardiologistV2.Tests\bin\Debug\System.Web.Razor.xml
+c:\users\welcome\documents\visual studio 2012\Projects\CardiologistV2\CardiologistV2.Tests\bin\Debug\System.Web.WebPages.xml
+c:\users\welcome\documents\visual studio 2012\Projects\CardiologistV2\CardiologistV2.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+c:\users\welcome\documents\visual studio 2012\Projects\CardiologistV2\CardiologistV2.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+c:\users\welcome\documents\visual studio 2012\Projects\CardiologistV2\CardiologistV2.Tests\bin\Debug\EntityFramework.xml
+c:\users\welcome\documents\visual studio 2012\Projects\CardiologistV2\CardiologistV2.Tests\bin\Debug\Microsoft.Web.WebPages.OAuth.xml
+c:\users\welcome\documents\visual studio 2012\Projects\CardiologistV2\CardiologistV2.Tests\bin\Debug\DotNetOpenAuth.AspNet.xml
+c:\users\welcome\documents\visual studio 2012\Projects\CardiologistV2\CardiologistV2.Tests\bin\Debug\DotNetOpenAuth.Core.xml
+c:\users\welcome\documents\visual studio 2012\Projects\CardiologistV2\CardiologistV2.Tests\bin\Debug\DotNetOpenAuth.OAuth.Consumer.xml
+c:\users\welcome\documents\visual studio 2012\Projects\CardiologistV2\CardiologistV2.Tests\bin\Debug\DotNetOpenAuth.OAuth.xml
+c:\users\welcome\documents\visual studio 2012\Projects\CardiologistV2\CardiologistV2.Tests\bin\Debug\DotNetOpenAuth.OpenId.RelyingParty.xml
+c:\users\welcome\documents\visual studio 2012\Projects\CardiologistV2\CardiologistV2.Tests\bin\Debug\DotNetOpenAuth.OpenId.xml
+c:\users\welcome\documents\visual studio 2012\Projects\CardiologistV2\CardiologistV2.Tests\obj\Debug\CardiologistV2.Tests.csprojResolveAssemblyReference.cache
+c:\users\welcome\documents\visual studio 2012\Projects\CardiologistV2\CardiologistV2.Tests\obj\Debug\CardiologistV2.Tests.dll
+c:\users\welcome\documents\visual studio 2012\Projects\CardiologistV2\CardiologistV2.Tests\obj\Debug\CardiologistV2.Tests.pdb
+H:\!Project\CardiologistV2\CardiologistV2\CardiologistV2.Tests\bin\Debug\CardiologistV2.Tests.dll.config
+H:\!Project\CardiologistV2\CardiologistV2\CardiologistV2.Tests\bin\Debug\CardiologistV2.Tests.dll
+H:\!Project\CardiologistV2\CardiologistV2\CardiologistV2.Tests\bin\Debug\CardiologistV2.Tests.pdb
+H:\!Project\CardiologistV2\CardiologistV2\CardiologistV2.Tests\bin\Debug\CardiologistV2.dll
+H:\!Project\CardiologistV2\CardiologistV2\CardiologistV2.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+H:\!Project\CardiologistV2\CardiologistV2\CardiologistV2.Tests\bin\Debug\Newtonsoft.Json.dll
+H:\!Project\CardiologistV2\CardiologistV2\CardiologistV2.Tests\bin\Debug\System.Web.Helpers.dll
+H:\!Project\CardiologistV2\CardiologistV2\CardiologistV2.Tests\bin\Debug\System.Web.Mvc.dll
+H:\!Project\CardiologistV2\CardiologistV2\CardiologistV2.Tests\bin\Debug\System.Web.Razor.dll
+H:\!Project\CardiologistV2\CardiologistV2\CardiologistV2.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+H:\!Project\CardiologistV2\CardiologistV2\CardiologistV2.Tests\bin\Debug\System.Web.WebPages.dll
+H:\!Project\CardiologistV2\CardiologistV2\CardiologistV2.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+H:\!Project\CardiologistV2\CardiologistV2\CardiologistV2.Tests\bin\Debug\EntityFramework.dll
+H:\!Project\CardiologistV2\CardiologistV2\CardiologistV2.Tests\bin\Debug\System.Web.Optimization.dll
+H:\!Project\CardiologistV2\CardiologistV2\CardiologistV2.Tests\bin\Debug\Microsoft.Web.WebPages.OAuth.dll
+H:\!Project\CardiologistV2\CardiologistV2\CardiologistV2.Tests\bin\Debug\DotNetOpenAuth.AspNet.dll
+H:\!Project\CardiologistV2\CardiologistV2\CardiologistV2.Tests\bin\Debug\WebGrease.dll
+H:\!Project\CardiologistV2\CardiologistV2\CardiologistV2.Tests\bin\Debug\DotNetOpenAuth.Core.dll
+H:\!Project\CardiologistV2\CardiologistV2\CardiologistV2.Tests\bin\Debug\DotNetOpenAuth.OAuth.Consumer.dll
+H:\!Project\CardiologistV2\CardiologistV2\CardiologistV2.Tests\bin\Debug\DotNetOpenAuth.OAuth.dll
+H:\!Project\CardiologistV2\CardiologistV2\CardiologistV2.Tests\bin\Debug\DotNetOpenAuth.OpenId.RelyingParty.dll
+H:\!Project\CardiologistV2\CardiologistV2\CardiologistV2.Tests\bin\Debug\DotNetOpenAuth.OpenId.dll
+H:\!Project\CardiologistV2\CardiologistV2\CardiologistV2.Tests\bin\Debug\Antlr3.Runtime.dll
+H:\!Project\CardiologistV2\CardiologistV2\CardiologistV2.Tests\bin\Debug\CardiologistV2.pdb
+H:\!Project\CardiologistV2\CardiologistV2\CardiologistV2.Tests\bin\Debug\Newtonsoft.Json.xml
+H:\!Project\CardiologistV2\CardiologistV2\CardiologistV2.Tests\bin\Debug\System.Web.Helpers.xml
+H:\!Project\CardiologistV2\CardiologistV2\CardiologistV2.Tests\bin\Debug\System.Web.Mvc.xml
+H:\!Project\CardiologistV2\CardiologistV2\CardiologistV2.Tests\bin\Debug\System.Web.Razor.xml
+H:\!Project\CardiologistV2\CardiologistV2\CardiologistV2.Tests\bin\Debug\System.Web.WebPages.xml
+H:\!Project\CardiologistV2\CardiologistV2\CardiologistV2.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+H:\!Project\CardiologistV2\CardiologistV2\CardiologistV2.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+H:\!Project\CardiologistV2\CardiologistV2\CardiologistV2.Tests\bin\Debug\EntityFramework.xml
+H:\!Project\CardiologistV2\CardiologistV2\CardiologistV2.Tests\bin\Debug\Microsoft.Web.WebPages.OAuth.xml
+H:\!Project\CardiologistV2\CardiologistV2\CardiologistV2.Tests\bin\Debug\DotNetOpenAuth.AspNet.xml
+H:\!Project\CardiologistV2\CardiologistV2\CardiologistV2.Tests\bin\Debug\DotNetOpenAuth.Core.xml
+H:\!Project\CardiologistV2\CardiologistV2\CardiologistV2.Tests\bin\Debug\DotNetOpenAuth.OAuth.Consumer.xml
+H:\!Project\CardiologistV2\CardiologistV2\CardiologistV2.Tests\bin\Debug\DotNetOpenAuth.OAuth.xml
+H:\!Project\CardiologistV2\CardiologistV2\CardiologistV2.Tests\bin\Debug\DotNetOpenAuth.OpenId.RelyingParty.xml
+H:\!Project\CardiologistV2\CardiologistV2\CardiologistV2.Tests\bin\Debug\DotNetOpenAuth.OpenId.xml
+H:\!Project\CardiologistV2\CardiologistV2\CardiologistV2.Tests\obj\Debug\CardiologistV2.Tests.csprojResolveAssemblyReference.cache
+H:\!Project\CardiologistV2\CardiologistV2\CardiologistV2.Tests\obj\Debug\CardiologistV2.Tests.dll
+H:\!Project\CardiologistV2\CardiologistV2\CardiologistV2.Tests\obj\Debug\CardiologistV2.Tests.pdb
+C:\Users\WELCOME\Desktop\Final Senior\Final Project\CardiologistV2\CardiologistV2\CardiologistV2.Tests\bin\Debug\CardiologistV2.Tests.dll.config
+C:\Users\WELCOME\Desktop\Final Senior\Final Project\CardiologistV2\CardiologistV2\CardiologistV2.Tests\bin\Debug\CardiologistV2.Tests.dll
+C:\Users\WELCOME\Desktop\Final Senior\Final Project\CardiologistV2\CardiologistV2\CardiologistV2.Tests\bin\Debug\CardiologistV2.Tests.pdb
+C:\Users\WELCOME\Desktop\Final Senior\Final Project\CardiologistV2\CardiologistV2\CardiologistV2.Tests\bin\Debug\CardiologistV2.dll
+C:\Users\WELCOME\Desktop\Final Senior\Final Project\CardiologistV2\CardiologistV2\CardiologistV2.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\WELCOME\Desktop\Final Senior\Final Project\CardiologistV2\CardiologistV2\CardiologistV2.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\WELCOME\Desktop\Final Senior\Final Project\CardiologistV2\CardiologistV2\CardiologistV2.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\WELCOME\Desktop\Final Senior\Final Project\CardiologistV2\CardiologistV2\CardiologistV2.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\WELCOME\Desktop\Final Senior\Final Project\CardiologistV2\CardiologistV2\CardiologistV2.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\WELCOME\Desktop\Final Senior\Final Project\CardiologistV2\CardiologistV2\CardiologistV2.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\WELCOME\Desktop\Final Senior\Final Project\CardiologistV2\CardiologistV2\CardiologistV2.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\WELCOME\Desktop\Final Senior\Final Project\CardiologistV2\CardiologistV2\CardiologistV2.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\WELCOME\Desktop\Final Senior\Final Project\CardiologistV2\CardiologistV2\CardiologistV2.Tests\bin\Debug\EntityFramework.dll
+C:\Users\WELCOME\Desktop\Final Senior\Final Project\CardiologistV2\CardiologistV2\CardiologistV2.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\WELCOME\Desktop\Final Senior\Final Project\CardiologistV2\CardiologistV2\CardiologistV2.Tests\bin\Debug\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\WELCOME\Desktop\Final Senior\Final Project\CardiologistV2\CardiologistV2\CardiologistV2.Tests\bin\Debug\DotNetOpenAuth.AspNet.dll
+C:\Users\WELCOME\Desktop\Final Senior\Final Project\CardiologistV2\CardiologistV2\CardiologistV2.Tests\bin\Debug\WebGrease.dll
+C:\Users\WELCOME\Desktop\Final Senior\Final Project\CardiologistV2\CardiologistV2\CardiologistV2.Tests\bin\Debug\DotNetOpenAuth.Core.dll
+C:\Users\WELCOME\Desktop\Final Senior\Final Project\CardiologistV2\CardiologistV2\CardiologistV2.Tests\bin\Debug\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\WELCOME\Desktop\Final Senior\Final Project\CardiologistV2\CardiologistV2\CardiologistV2.Tests\bin\Debug\DotNetOpenAuth.OAuth.dll
+C:\Users\WELCOME\Desktop\Final Senior\Final Project\CardiologistV2\CardiologistV2\CardiologistV2.Tests\bin\Debug\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\WELCOME\Desktop\Final Senior\Final Project\CardiologistV2\CardiologistV2\CardiologistV2.Tests\bin\Debug\DotNetOpenAuth.OpenId.dll
+C:\Users\WELCOME\Desktop\Final Senior\Final Project\CardiologistV2\CardiologistV2\CardiologistV2.Tests\bin\Debug\Antlr3.Runtime.dll
+C:\Users\WELCOME\Desktop\Final Senior\Final Project\CardiologistV2\CardiologistV2\CardiologistV2.Tests\bin\Debug\CardiologistV2.pdb
+C:\Users\WELCOME\Desktop\Final Senior\Final Project\CardiologistV2\CardiologistV2\CardiologistV2.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\WELCOME\Desktop\Final Senior\Final Project\CardiologistV2\CardiologistV2\CardiologistV2.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\WELCOME\Desktop\Final Senior\Final Project\CardiologistV2\CardiologistV2\CardiologistV2.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\WELCOME\Desktop\Final Senior\Final Project\CardiologistV2\CardiologistV2\CardiologistV2.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\WELCOME\Desktop\Final Senior\Final Project\CardiologistV2\CardiologistV2\CardiologistV2.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\WELCOME\Desktop\Final Senior\Final Project\CardiologistV2\CardiologistV2\CardiologistV2.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\WELCOME\Desktop\Final Senior\Final Project\CardiologistV2\CardiologistV2\CardiologistV2.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\WELCOME\Desktop\Final Senior\Final Project\CardiologistV2\CardiologistV2\CardiologistV2.Tests\bin\Debug\EntityFramework.xml
+C:\Users\WELCOME\Desktop\Final Senior\Final Project\CardiologistV2\CardiologistV2\CardiologistV2.Tests\bin\Debug\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\WELCOME\Desktop\Final Senior\Final Project\CardiologistV2\CardiologistV2\CardiologistV2.Tests\bin\Debug\DotNetOpenAuth.AspNet.xml
+C:\Users\WELCOME\Desktop\Final Senior\Final Project\CardiologistV2\CardiologistV2\CardiologistV2.Tests\bin\Debug\DotNetOpenAuth.Core.xml
+C:\Users\WELCOME\Desktop\Final Senior\Final Project\CardiologistV2\CardiologistV2\CardiologistV2.Tests\bin\Debug\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\WELCOME\Desktop\Final Senior\Final Project\CardiologistV2\CardiologistV2\CardiologistV2.Tests\bin\Debug\DotNetOpenAuth.OAuth.xml
+C:\Users\WELCOME\Desktop\Final Senior\Final Project\CardiologistV2\CardiologistV2\CardiologistV2.Tests\bin\Debug\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\WELCOME\Desktop\Final Senior\Final Project\CardiologistV2\CardiologistV2\CardiologistV2.Tests\bin\Debug\DotNetOpenAuth.OpenId.xml
+C:\Users\WELCOME\Desktop\Final Senior\Final Project\CardiologistV2\CardiologistV2\CardiologistV2.Tests\obj\Debug\CardiologistV2.Tests.csprojResolveAssemblyReference.cache
+C:\Users\WELCOME\Desktop\Final Senior\Final Project\CardiologistV2\CardiologistV2\CardiologistV2.Tests\obj\Debug\CardiologistV2.Tests.dll
+C:\Users\WELCOME\Desktop\Final Senior\Final Project\CardiologistV2\CardiologistV2\CardiologistV2.Tests\obj\Debug\CardiologistV2.Tests.pdb
